@@ -1,5 +1,5 @@
 {
-  "name": "extension-template",
+  "name": "svelte-typescript-extension-template",
   "private": true,
   "version": "0.0.0",
   "type": "module",
